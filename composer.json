@@ -1,5 +1,5 @@
 {
-    "name": "paypal/rest-api-sdk-php",
+    "name": "luischavez/rest-api-sdk-php",
     "description": "PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
@@ -7,8 +7,8 @@
     "homepage": "http://paypal.github.io/PayPal-PHP-SDK/",
     "authors": [
         {
-            "name": "PayPal",
-            "homepage": "https://github.com/paypal/rest-api-sdk-php/contributors"
+            "name": "luischavez",
+            "homepage": "https://github.com/luischavez/PayPal-PHP-SDK"
         }
     ],
     "require": {
